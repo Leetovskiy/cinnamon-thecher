@@ -1,0 +1,22 @@
+{
+  "themes": {
+    "light": {
+      "desktop": "Mint-Y",
+      "win_borders": "Mint-Y",
+      "controls": "Mint-Y",
+      "icons": "Mint-Y",
+      "cursor": "DMZ-White"
+    },
+    "dark": {
+      "desktop": "Mint-Y-Dark",
+      "win_borders": "Mint-Y-Dark",
+      "controls": "Mint-Y-Dark",
+      "icons": "Mint-Y-Dark",
+      "cursor": "DMZ-White"
+    }
+  },
+  "location": {
+    "latitude": null,
+    "longitude": null
+  }
+}
